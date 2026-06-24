@@ -211,7 +211,7 @@ Some major insights from the dashboard:
 Add your dashboard screenshots here:
 
 ```markdown
-![Summary Page]()
+![Summary Page](Summary.png)
 ![Demographic Analysis]()
 ![Risk Analysis]()
 ![Global Insights]()
