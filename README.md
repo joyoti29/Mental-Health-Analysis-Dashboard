@@ -208,7 +208,7 @@ Some major insights from the dashboard:
 
 ## Dashboard Preview
 
-Add your dashboard screenshots here:
+dashboard screenshots:
 
 ```markdown
 ![Summary Page]([Summary.png](https://github.com/joyoti29/Mental-Health-Analysis-Dashboard/blob/main/Summary.png))
