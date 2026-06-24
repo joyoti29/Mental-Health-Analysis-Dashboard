@@ -211,10 +211,10 @@ Some major insights from the dashboard:
 Add your dashboard screenshots here:
 
 ```markdown
-![Summary Page](Summary.png)
-![Demographic Analysis]()
-![Risk Analysis]()
-![Global Insights]()
+![Summary Page]([Summary.png](https://github.com/joyoti29/Mental-Health-Analysis-Dashboard/blob/main/Summary.png))
+![Demographic Analysis](https://github.com/joyoti29/Mental-Health-Analysis-Dashboard/blob/main/Demographic.png)
+![Risk Analysis](https://github.com/joyoti29/Mental-Health-Analysis-Dashboard/blob/main/Risk.png)
+![Global Insights](https://github.com/joyoti29/Mental-Health-Analysis-Dashboard/blob/main/Global.png)
 ```
 
 ---
